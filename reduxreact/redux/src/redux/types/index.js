@@ -1,0 +1,2 @@
+export const WRITE_MY_NAME = "WRITE_MY_NAME";
+export const ADD_NAME_TO_STORE = "ADD_NAME_TO_STORE";
